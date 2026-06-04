@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "sinminecraft-1Xiw.aternos.me:27510",
+    "port": 27510,
     "version": "",
     "try-creative": false
   },
